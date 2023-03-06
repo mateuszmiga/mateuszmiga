@@ -6,8 +6,6 @@
 
 📫 I'm on LinkedIn: https://www.linkedin.com/in/mateusz-miga/
 
-:point_right: Project that i'm currently working on: https://moviesportal.azurewebsites.net
-
 :eyes: Looking for a job. Ready to cooperate with non-profit projects!
 
 <!---
